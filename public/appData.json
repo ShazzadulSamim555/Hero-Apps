@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "image": "https://play-lh.googleusercontent.com/YkSdotniZswZkjHX44yWG6SQuaXq693ODn2GRwtxiqePBjoHfwosgl9sL6F3UxAvFbw",
+    "title": "Task Manager Pro",
+    "company": "TechSoft Ltd",
+    "description": "A powerful task management app to organize your daily workflow efficiently.",
+    "size": "25MB",
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "star": 5, "count": 800 },
+      { "star": 4, "count": 250 },
+      { "star": 3, "count": 100 },
+      { "star": 2, "count": 30 },
+      { "star": 1, "count": 20 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://editorxelements.com/wp-content/uploads/2021/04/editor-x-templates-elements.png",
+    "title": "Photo Editor X",
+    "company": "Creative Labs",
+    "description": "Edit your photos with professional tools and stunning filters.",
+    "size": "40MB",
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 42000,
+    "ratings": [
+      { "star": 5, "count": 600 },
+      { "star": 4, "count": 250 },
+      { "star": 3, "count": 80 },
+      { "star": 2, "count": 30 },
+      { "star": 1, "count": 20 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gw2xTyTqxBj6iRySxAUVtX7RG5nCsq7w_g&s",
+    "title": "Weather Now",
+    "company": "SkyTech",
+    "description": "Get real-time weather updates with accurate forecasts.",
+    "size": "18MB",
+    "reviews": 750,
+    "ratingAvg": 4.2,
+    "downloads": 30000,
+    "ratings": [
+      { "star": 5, "count": 400 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 100 },
+      { "star": 2, "count": 30 },
+      { "star": 1, "count": 20 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-vector/digital-audio-tune-frequency-background-entertainment-concert_1017-51460.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Music Beats",
+    "company": "SoundWave",
+    "description": "Stream and download your favorite songs anytime.",
+    "size": "50MB",
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 100000,
+    "ratings": [
+      { "star": 5, "count": 1500 },
+      { "star": 4, "count": 400 },
+      { "star": 3, "count": 120 },
+      { "star": 2, "count": 50 },
+      { "star": 1, "count": 30 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://www.theptdc.com/wp-content/uploads/2019/05/CoachVsTrainer_Feature.png",
+    "title": "Fitness Coach",
+    "company": "HealthPro",
+    "description": "Your personal fitness trainer with guided workouts.",
+    "size": "30MB",
+    "reviews": 1500,
+    "ratingAvg": 4.6,
+    "downloads": 70000,
+    "ratings": [
+      { "star": 5, "count": 1000 },
+      { "star": 4, "count": 300 },
+      { "star": 3, "count": 120 },
+      { "star": 2, "count": 50 },
+      { "star": 1, "count": 30 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://play-lh.googleusercontent.com/utpNkkU02E6dRefaGnV4Fvv9ZBpqoqpJXPKjfU5Q1_YEbAoKUbmDH669w2QBybMuWAY",
+    "title": "Note Keeper",
+    "company": "SimpleApps",
+    "description": "Take notes quickly and stay organized.",
+    "size": "12MB",
+    "reviews": 500,
+    "ratingAvg": 4.1,
+    "downloads": 20000,
+    "ratings": [
+      { "star": 5, "count": 250 },
+      { "star": 4, "count": 150 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://online.fliphtml5.com/templates/yqls/files/shot.jpg",
+    "title": "Travel Guide",
+    "company": "Explorer Inc",
+    "description": "Discover new places and plan your trips easily.",
+    "size": "35MB",
+    "reviews": 890,
+    "ratingAvg": 4.4,
+    "downloads": 45000,
+    "ratings": [
+      { "star": 5, "count": 600 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 20 },
+      { "star": 1, "count": 10 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://media.licdn.com/dms/image/v2/D4E12AQEa7AKYVDgwSA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1712157160830?e=2147483647&v=beta&t=6elsteIwskFFm76ROqGIbvteWmPk0pOHHo8VO05AiYE",
+    "title": "Language Learner",
+    "company": "EduTech",
+    "description": "Learn new languages with interactive lessons.",
+    "size": "28MB",
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 60000,
+    "ratings": [
+      { "star": 5, "count": 900 },
+      { "star": 4, "count": 250 },
+      { "star": 3, "count": 80 },
+      { "star": 2, "count": 40 },
+      { "star": 1, "count": 30 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://play-lh.googleusercontent.com/f7qp8wr9YCds2SpzyfUVFmXkfKP23XCWbOAnhu1b4eFzjlKAjaI6mW-omf6DpUYa_Twj",
+    "title": "Video Player HD",
+    "company": "MediaSoft",
+    "description": "Play all video formats smoothly in HD quality.",
+    "size": "22MB",
+    "reviews": 1100,
+    "ratingAvg": 4.3,
+    "downloads": 55000,
+    "ratings": [
+      { "star": 5, "count": 700 },
+      { "star": 4, "count": 250 },
+      { "star": 3, "count": 90 },
+      { "star": 2, "count": 40 },
+      { "star": 1, "count": 20 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://www.shutterstock.com/image-illustration/large-vault-door-opening-revealing-260nw-2667192629.jpg",
+    "title": "Secure Vault",
+    "company": "SafeTech",
+    "description": "Protect your files with advanced encryption.",
+    "size": "20MB",
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 30000,
+    "ratings": [
+      { "star": 5, "count": 350 },
+      { "star": 4, "count": 150 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://store-images.s-microsoft.com/image/apps.57469.14437594937824467.10a53cd2-641a-4180-aa15-0f7755b984c2.76888489-8a50-4655-b2df-a061d754169f",
+    "title": "Game Booster",
+    "company": "BoostLab",
+    "description": "Optimize your device for better gaming performance.",
+    "size": "15MB",
+    "reviews": 900,
+    "ratingAvg": 4.4,
+    "downloads": 50000,
+    "ratings": [
+      { "star": 5, "count": 600 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://raketcontent.com/1/Recipe_Book_Tittle_c556b4cfd9.png",
+    "title": "Recipe Book",
+    "company": "Foodies",
+    "description": "Explore delicious recipes from around the world.",
+    "size": "26MB",
+    "reviews": 700,
+    "ratingAvg": 4.3,
+    "downloads": 35000,
+    "ratings": [
+      { "star": 5, "count": 450 },
+      { "star": 4, "count": 150 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://play-lh.googleusercontent.com/qlqKi0sZoDemnYQ-weyKPiB3BGS4Lt2OCmWQ16bBVcUDD0t_7VrZQg1pjdrGeQOxukU",
+    "title": "News Daily",
+    "company": "Global News",
+    "description": "Stay updated with the latest news worldwide.",
+    "size": "19MB",
+    "reviews": 850,
+    "ratingAvg": 4.2,
+    "downloads": 40000,
+    "ratings": [
+      { "star": 5, "count": 500 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 80 },
+      { "star": 2, "count": 40 },
+      { "star": 1, "count": 30 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://play-lh.googleusercontent.com/VpBmeZJyqEicoQJJ7D8ArQoC8YsQ-mCptUNMPKBuWj2aPMDEsp_rAZwmLW2Sgmf43LI=w526-h296-rw",
+    "title": "Calculator Plus",
+    "company": "MathTools",
+    "description": "A smart calculator with advanced features.",
+    "size": "10MB",
+    "reviews": 400,
+    "ratingAvg": 4.1,
+    "downloads": 20000,
+    "ratings": [
+      { "star": 5, "count": 200 },
+      { "star": 4, "count": 120 },
+      { "star": 3, "count": 50 },
+      { "star": 2, "count": 20 },
+      { "star": 1, "count": 10 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://play-lh.googleusercontent.com/ChdU_u8tljHdehjTep5cKUHmkV0I9OfbqzlMC8g5PSeUR3VEFM2WBrgS52BSdelfpydg=w240-h480-rw",
+    "title": "File Manager",
+    "company": "ManageIT",
+    "description": "Organize and manage your files easily.",
+    "size": "16MB",
+    "reviews": 650,
+    "ratingAvg": 4.3,
+    "downloads": 30000,
+    "ratings": [
+      { "star": 5, "count": 400 },
+      { "star": 4, "count": 150 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://www.techadvisor.com/wp-content/uploads/2023/11/how-to-group-video-chat-facebook-messenger-1.jpg?quality=50&strip=all&w=1024",
+    "title": "Chat Messenger",
+    "company": "Connect Inc",
+    "description": "Chat instantly with friends and family.",
+    "size": "45MB",
+    "reviews": 2500,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      { "star": 5, "count": 1800 },
+      { "star": 4, "count": 400 },
+      { "star": 3, "count": 150 },
+      { "star": 2, "count": 80 },
+      { "star": 1, "count": 70 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://framerusercontent.com/images/TVoCCt0BuePn3RXyjM6SULAmfKQ.png?width=2454&height=1681",
+    "title": "Budget Tracker",
+    "company": "FinancePro",
+    "description": "Track your expenses and manage your budget.",
+    "size": "21MB",
+    "reviews": 780,
+    "ratingAvg": 4.4,
+    "downloads": 38000,
+    "ratings": [
+      { "star": 5, "count": 500 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 50 },
+      { "star": 2, "count": 20 },
+      { "star": 1, "count": 10 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://g4c7y7r6.delivery.rocketcdn.me/wp-content/uploads/2025/09/How-to-scan-QR-code-inside-iPhone-768x466.png",
+    "title": "QR Scanner",
+    "company": "ScanTech",
+    "description": "Scan QR codes quickly and securely.",
+    "size": "8MB",
+    "reviews": 300,
+    "ratingAvg": 4.0,
+    "downloads": 15000,
+    "ratings": [
+      { "star": 5, "count": 150 },
+      { "star": 4, "count": 80 },
+      { "star": 3, "count": 40 },
+      { "star": 2, "count": 20 },
+      { "star": 1, "count": 10 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://m.media-amazon.com/images/I/81kOd+gUDNL.jpg",
+    "title": "Alarm Clock",
+    "company": "TimeMaster",
+    "description": "Wake up on time with smart alarm features.",
+    "size": "14MB",
+    "reviews": 550,
+    "ratingAvg": 4.2,
+    "downloads": 25000,
+    "ratings": [
+      { "star": 5, "count": 300 },
+      { "star": 4, "count": 150 },
+      { "star": 3, "count": 50 },
+      { "star": 2, "count": 30 },
+      { "star": 1, "count": 20 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25821061/247464_Kindle_Paperwhite_ALiszewski_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "title": "Ebook Reader",
+    "company": "Readify",
+    "description": "Read your favorite books anytime, anywhere.",
+    "size": "27MB",
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 42000,
+    "ratings": [
+      { "star": 5, "count": 600 },
+      { "star": 4, "count": 200 },
+      { "star": 3, "count": 60 },
+      { "star": 2, "count": 25 },
+      { "star": 1, "count": 15 }
+    ]
+  }
+]

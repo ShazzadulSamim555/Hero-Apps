@@ -32,7 +32,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to={"./"}
-                  className={({ isActive }) => (isActive ? "tab-active" : "")}
+                  className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Home
                 </NavLink>
@@ -41,7 +41,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to={"./apps"}
-                  className={({ isActive }) => (isActive ? "tab-active" : "")}
+                  className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Apps
                 </NavLink>
@@ -49,8 +49,8 @@ const Navbar = () => {
 
               <li>
                 <NavLink
-                  to={"/"}
-                  className={({ isActive }) => (isActive ? "tab-active" : "")}
+                  to={"installedApps"}
+                  className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Installation
                 </NavLink>
@@ -81,7 +81,7 @@ const Navbar = () => {
 
             <li>
               <NavLink
-                to={"/footer"}
+                to={"installedApps"}
                 className={({ isActive }) => (isActive ? "border-b-2 border-blue-600 text-blue-700 font-semibold" : "")}
               >
                 Installation

@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import BannerDetails from './BannerDetails';
 
 const Banner = () => {
+    useEffect(()=>{
+
+    },[])
     return (
         <div>
-            Banner
+            <BannerDetails></BannerDetails>
         </div>
     );
 };
