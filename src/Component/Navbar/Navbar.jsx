@@ -1,5 +1,8 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router";
+import navLogo from "../../assets/logo.png"
+import { FaGithub } from "react-icons/fa";
+
 
 const Navbar = () => {
   const [activeTab, setActiveTab] = useState();
@@ -57,7 +60,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">Hero.Io</a>
+          <a className="btn btn-ghost text-xl"><img className="w-7" src={navLogo} alt="" /> Hero.Io</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -90,7 +93,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Button</a>
+          <a className="btn btn-primary btn-soft"><FaGithub /> Contribute</a>
         </div>
       </div>
     </div>

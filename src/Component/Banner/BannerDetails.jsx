@@ -5,7 +5,7 @@ import hero from "../../assets/hero.png";
 
 const BannerDetails = () => {
   return (
-    <div className="space-y-7 my-7">
+    <div className="space-y-7 mt-7">
       <div className="space-y-5 max-w-3xl mx-auto text-center">
         <h2 className="text-6xl">
           We Build{" "} <br />
