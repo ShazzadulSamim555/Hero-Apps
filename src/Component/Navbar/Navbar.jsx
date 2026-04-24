@@ -29,12 +29,12 @@ const Navbar = () => {
               </svg>
             </div>
             <ul
-              tabIndex="-1"
+              tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               <li>
                 <NavLink
-                  to={"./"}
+                  to={"/"}
                   className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Home
@@ -43,7 +43,7 @@ const Navbar = () => {
 
               <li>
                 <NavLink
-                  to={"ourApps"}
+                  to={"/ourApps"}
                   className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Apps
@@ -52,7 +52,7 @@ const Navbar = () => {
 
               <li>
                 <NavLink
-                  to={"installedApps"}
+                  to={"/installedApps"}
                   className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Installation
@@ -66,7 +66,7 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">
             <li>
               <NavLink
-                to={"./"}
+                to={"/"}
                 className={({ isActive }) => (isActive ? "border-b-2 border-blue-600 text-blue-700 font-semibold" : "")}
               >
                 Home
@@ -75,7 +75,7 @@ const Navbar = () => {
 
             <li>
               <NavLink
-                to={"./ourApps"}
+                to={"/ourApps"}
                 className={({ isActive }) => (isActive ? "border-b-2 border-blue-600 text-blue-700 font-semibold" : "")}
               >
                 Apps
@@ -84,7 +84,7 @@ const Navbar = () => {
 
             <li>
               <NavLink
-                to={"installedApps"}
+                to={"/installedApps"}
                 className={({ isActive }) => (isActive ? "border-b-2 border-blue-600 text-blue-700 font-semibold" : "")}
               >
                 Installation
