@@ -6,6 +6,7 @@ import Installed from "../Component/InstalledApps/Installed";
 import { createBrowserRouter } from "react-router";
 import AppDetails from "../Component/Details/AppDetails";
 import Apps from "../Component/AllApps/Apps";
+import InstalledApps from "../Component/AllApps/InstalledApps";
 
 
 
@@ -31,7 +32,7 @@ export const router= createBrowserRouter([
             },
             {
                 path: 'installedApps',
-                Component:Installed,
+                Component: InstalledApps,
             }
 
         ]

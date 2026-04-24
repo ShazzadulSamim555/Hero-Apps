@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { useParams } from "react-router";
 import { AppContext } from "../Central/AppContext";
 import { FaDownload } from "react-icons/fa6";
@@ -8,7 +8,7 @@ import Rating from "./Rating";
 
 const AppDetails = () => {
   const { id } = useParams();
-  const { apps } = useContext(AppContext);
+  const { apps,installApps, installedApps } = useContext(AppContext);
 
   const formate = (num) => {
     if (num >= 1000) {
@@ -25,6 +25,10 @@ const AppDetails = () => {
   const { image, title, size, ratingAvg, downloads, company, reviews,ratings } =
     findApp;
 
+    // console.log(installedApps);
+
+  const isInstalled= installedApps.includes(findApp.id);
+  
   return (
     <div className="min-h-screen w-full relative">
       {/* Background Layer */}
@@ -101,8 +105,8 @@ const AppDetails = () => {
             </div>
 
             <div className="pt-5">
-              <button className="btn btn-primary w-full md:w-auto px-10 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 border-none text-white font-bold">
-                Install Now ({size})
+              <button onClick={()=>installApps(findApp.id)}  className="btn btn-primary w-full md:w-auto px-10 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 border-none text-white font-bold">
+                {isInstalled ? "Installed" : `Install Now (${size})`}
               </button>
             </div>
           </div>

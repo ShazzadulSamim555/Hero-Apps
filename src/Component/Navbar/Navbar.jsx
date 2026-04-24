@@ -93,7 +93,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-primary btn-soft"><FaGithub /> Contribute</a>
+          <a href="https://github.com/ShazzadulSamim555/Hero-Apps.git" className="btn btn-primary btn-soft"><FaGithub /> Contribute</a>
         </div>
       </div>
     </div>
