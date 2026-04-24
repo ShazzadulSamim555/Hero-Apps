@@ -43,7 +43,7 @@ const Navbar = () => {
 
               <li>
                 <NavLink
-                  to={"./apps"}
+                  to={"ourApps"}
                   className={({ isActive }) => (isActive ? "bg-blue-300 font-bold" : "")}
                 >
                   Apps
@@ -75,7 +75,7 @@ const Navbar = () => {
 
             <li>
               <NavLink
-                to={"./apps"}
+                to={"./ourApps"}
                 className={({ isActive }) => (isActive ? "border-b-2 border-blue-600 text-blue-700 font-semibold" : "")}
               >
                 Apps

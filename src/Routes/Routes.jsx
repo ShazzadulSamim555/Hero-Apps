@@ -4,6 +4,8 @@ import ErrorPage from "../ErrorPage/ErrorPage";
 import Banner from "../Component/Banner/Banner";
 import Installed from "../Component/InstalledApps/Installed";
 import { createBrowserRouter } from "react-router";
+import AppDetails from "../Component/Details/AppDetails";
+import Apps from "../Component/AllApps/Apps";
 
 
 
@@ -19,8 +21,13 @@ export const router= createBrowserRouter([
                 Component: Banner
             },
             {
-                path:'apps',
+                path:'/app/:id',
+                Component: AppDetails,
                 
+            },
+            {
+                path:'ourApps',
+                Component: Apps
             },
             {
                 path: 'installedApps',
